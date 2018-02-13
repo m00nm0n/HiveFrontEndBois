@@ -1,1 +1,3 @@
-make icons
+hive logo
+settings icon
+icons for sections within settings
