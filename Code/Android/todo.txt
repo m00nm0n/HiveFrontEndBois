@@ -1,2 +1,13 @@
 reinstall os
 reinstall android studio
+home
+    settings button
+    cwd
+        root=""
+    list of files in cwd with respective icons
+settings menu
+    migrate data from device
+    recovery
+    partition sliders
+    node management
+    general settings
